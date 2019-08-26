@@ -9,6 +9,4 @@ width=300>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
 </p>
 
 <br>
-<br>
-
 <img src= "screenshots/Screenshot_1566840949.png" width=300>
