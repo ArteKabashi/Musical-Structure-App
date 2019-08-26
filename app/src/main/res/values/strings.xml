@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="title">My Music</string>
+    <string name="string1">Songs</string>
+    <string name="string2">Playlists</string>
+    <string name="string3">Settings</string>
+    <string name="string4">Youtube</string>
+    <string name="string5">Create new playlist</string>
+    <string name="string6">00:00</string>
+    <string name="string7">03:00</string>
+    <string name="string8">Artist Name - Song Name</string>
+</resources>
